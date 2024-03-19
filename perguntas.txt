@@ -1,0 +1,50 @@
+1,A Terra é o maior planeta do sistema solar,F
+2,O Rio Amazonas é o rio mais longo do mundo,V
+3,O Sol é uma estrela,V
+4,A Lua tem sua própria luz,F
+5,O Brasil é o país mais populoso do mundo,F
+6,A água ferve a 100 graus Celsius,V
+7,O diamante é o mineral mais duro conhecido pelo homem,V
+8,A eletricidade pode viajar através do vácuo,V
+9,O ser humano tem cinco sentidos,F
+10,O deserto do Saara é o maior deserto do mundo,V
+11,O oxigênio é o gás mais abundante na atmosfera terrestre,F
+12,Os seres humanos podem respirar debaixo d'água,F
+13,A linguagem Python é uma linguagem de programação de alto nível,V
+14,A Grande Muralha da China é visível do espaço,F
+15,O chocolate é venenoso para os cães,V
+16,O átomo é a menor unidade da matéria,V
+17,O Brasil faz fronteira com a Argentina,V
+18,A Mona Lisa foi pintada por Vincent van Gogh,F
+19,Os tubarões são mamíferos,F
+20,O pingue-pongue é um esporte olímpico,V
+21,A Lua orbita a Terra,V
+22,O Japão é uma ilha,V
+23,O oxigênio é essencial para a respiração humana,V
+24,O Sol gira em torno da Terra,F
+25,O ferro é um metal precioso,F
+26,A água é composta por dois átomos de hidrogênio e um de oxigênio,V
+27,Os mamíferos botam ovos,F
+28,A energia solar é renovável,V
+29,O som não pode viajar no vácuo,V
+30,O diamante é uma forma cristalina de carbono,V
+31,O zero é um número par,V
+32,Os cães têm melhor audição que os humanos,V
+33,A Antártida é o continente mais quente,F
+34,Os dinossauros ainda existem,F
+35,O papel pode ser reciclado várias vezes,V
+36,O café é uma bebida descafeinada,F
+37,O sangue humano é azul dentro do corpo,F
+38,O carbono é o elemento mais abundante na Terra,V
+39,O álcool é uma substância depressora do sistema nervoso central,V
+40,Os golfinhos são peixes,F
+41,A energia não pode ser criada nem destruída, apenas transformada,V
+42,Os relâmpagos nunca caem no mesmo lugar duas vezes,F
+43,Os ursos polares são encontrados apenas no Pólo Sul,F
+44,Os seres humanos podem viver sem dormir,F
+45,O grafite é feito de carbono,V
+46,As bananas crescem em árvores,V
+47,Os furacões se formam sobre água doce,F
+48,A África é um país,F
+49,Os coelhos são roedores,V
+50,O mercúrio é um metal sólido à temperatura ambiente,F
