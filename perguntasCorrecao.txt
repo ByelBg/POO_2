@@ -1,0 +1,50 @@
+A Terra é o maior planeta do sistema solar,F
+O Rio Amazonas é o rio mais longo do mundo,V
+O Sol é uma estrela,V
+A Lua tem sua própria luz,F
+O Brasil é o país mais populoso do mundo,F
+A água ferve a 100 graus Celsius,V
+O diamante é o mineral mais duro conhecido pelo homem,V
+A eletricidade pode viajar através do vácuo,V
+O ser humano tem cinco sentidos,F
+O deserto do Saara é o maior deserto do mundo,V
+O oxigênio é o gás mais abundante na atmosfera terrestre,F
+Os seres humanos podem respirar debaixo d'água,F
+A linguagem Python é uma linguagem de programação de alto nível,V
+A Grande Muralha da China é visível do espaço,F
+O chocolate é venenoso para os cães,V
+O átomo é a menor unidade da matéria,V
+O Brasil faz fronteira com a Argentina,V
+A Mona Lisa foi pintada por Vincent van Gogh,F
+Os tubarões são mamíferos,F
+O pingue-pongue é um esporte olímpico,V
+A Lua orbita a Terra,V
+O Japão é uma ilha,V
+O oxigênio é essencial para a respiração humana,V
+O Sol gira em torno da Terra,F
+O ferro é um metal precioso,F
+A água é composta por dois átomos de hidrogênio e um de oxigênio,V
+Os mamíferos botam ovos,F
+A energia solar é renovável,V
+O som não pode viajar no vácuo,V
+O diamante é uma forma cristalina de carbono,V
+O zero é um número par,V
+Os cães têm melhor audição que os humanos,V
+A Antártida é o continente mais quente,F
+Os dinossauros ainda existem,F
+O papel pode ser reciclado várias vezes,V
+O café é uma bebida descafeinada,F
+O sangue humano é azul dentro do corpo,F
+O carbono é o elemento mais abundante na Terra,V
+O álcool é uma substância depressora do sistema nervoso central,V
+Os golfinhos são peixes,F
+A energia não pode ser criada nem destruída, apenas transformada,V
+Os relâmpagos nunca caem no mesmo lugar duas vezes,F
+Os ursos polares são encontrados apenas no Pólo Sul,F
+Os seres humanos podem viver sem dormir,F
+O grafite é feito de carbono,V
+As bananas crescem em árvores,V
+Os furacões se formam sobre água doce,F
+A África é um país,F
+Os coelhos são roedores,V
+O mercúrio é um metal sólido à temperatura ambiente,F
